@@ -34,7 +34,7 @@ export default function Home() {
             <h1 className="text-xl font-semibold text-center leading-snug">
               Cargo tracking on Whatsapp
             </h1>
-            <p className="mt-2 text-center text-neutral-500">
+            <p className="mt-1 text-center text-neutral-500">
               Start by sending a message.
             </p>
           </div>
